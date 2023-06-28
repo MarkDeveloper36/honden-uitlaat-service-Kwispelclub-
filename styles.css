@@ -1,0 +1,23 @@
+body {
+    background-color: #ebedef;
+    background-color: rgba(0, 0, 0, 0.574);
+}
+
+.navbar-brand {
+    color: #496595;
+}
+
+#mainNav a {
+    color: white;
+}
+
+
+/* 
+
+#496595     donker
+#90a7c4
+#c6d0de
+#ebedef     licht
+#d4d0af     brown off color
+
+*/
