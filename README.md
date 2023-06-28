@@ -25,5 +25,4 @@ This project is an exercise website for practicing CSS Bootstrap. It aims to cre
 
 ## Credits
 
-- The project was created by [Your Name](https://github.com/your-username).
-- Bootstrap: [Link to Bootstrap](https://getbootstrap.com/)
+This project is based on and inspired by the bootstrap project "Museum of Candy" from "The Web Developer Bootcamp 2033" by Colt Steele.
