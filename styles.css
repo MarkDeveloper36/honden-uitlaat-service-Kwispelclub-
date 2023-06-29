@@ -1,6 +1,5 @@
 body {
     background-color: #ebedef;
-    background-color: rgba(0, 0, 0, 0.574);
 }
 
 .navbar-brand {
@@ -9,12 +8,20 @@ body {
 }
 
 .nav-link {
-    color: white;
     font-size: 1.5rem;
+    color:black;
 }
 
 :hover.nav-link {
     color: #496595;
+}
+
+h1 span {
+    color: #496595;
+}
+
+p {
+    line-height: 1.8;
 }
 
 /* 
