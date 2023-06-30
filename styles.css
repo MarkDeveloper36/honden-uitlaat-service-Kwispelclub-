@@ -24,6 +24,27 @@ p {
     line-height: 1.8;
 }
 
+#background-diensten {
+    z-index: -10;
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+#maindiensten {
+    background-color: #ebedef;
+}
+
+#emptydiv {
+    height: 70vh;
+}
+
+
+
+
+
+
 /* 
 
 #496595     donker
