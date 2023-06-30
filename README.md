@@ -9,10 +9,7 @@ This project is an exercise website for practicing CSS Bootstrap. It aims to cre
 - Homepage showcasing the services offered
 - Detailed information about different services and pricing
 - About Us page introducing the team and their experience
-- Photo gallery of happy dogs
 - Contact page with contact information and a contact form
-- FAQ section addressing common questions
-- Testimonials from satisfied customers
 
 ## Technologies Used
 

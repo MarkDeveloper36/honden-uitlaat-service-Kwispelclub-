@@ -40,8 +40,20 @@ p {
     height: 70vh;
 }
 
+.active {
+    text-decoration: underline;
+}
 
+.card {
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
 
+  .card:hover {
+    transform: translateY(-5px);
+  }
 
 
 
