@@ -21,6 +21,10 @@ body {
     text-decoration: underline;
 }
 
+h1, h2, h3, h4 {
+    color: #496595;
+}
+
 h1 span {
     color: #496595;
 }
